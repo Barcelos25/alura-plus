@@ -1,4 +1,5 @@
-# Alura Plus Olá, Bem vindo ao meu projeto Alura Plus.
+# Alura Plus
+# Olá, Bem vindo ao meu projeto Alura Plus.
 
 ![image](https://raw.githubusercontent.com/Barcelos25/alura-plus/main/img/Alura%20Plus.jpeg)
 
